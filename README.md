@@ -8,7 +8,7 @@ I enjoy building end-to-end software, from intuitive user interfaces to reliable
 
 **Languages**
 
-[![Languages](https://skillicons.dev/icons?i=java,scala,python,c,cpp,c#,js,ts,html,css)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=java,scala,python,c,cpp,js,ts,html,css)](https://skillicons.dev)
 
 **Frameworks**
 
